@@ -30,7 +30,6 @@ header ul {
 button {
   border: none;
   background: white;
-  border-radius: 50px;
 }
 
 header {
@@ -72,4 +71,7 @@ section div h1 {
   max-width: 463px;
 }
 .section-3 {
+  max-width: 463px;
+  max-height: 235px;
+  transform: translateY(365px);
 }
